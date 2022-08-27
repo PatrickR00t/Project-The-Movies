@@ -1,0 +1,132 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+
+.navbar {
+  background-color: black;
+  padding: 0.4rem;
+}
+
+.navbar a {
+  text-decoration: none;
+}
+
+.navbar input {
+  width: 200px;
+  height: 27px;
+  border-radius: 7px;
+  border: none;
+  margin: 7px 2px;
+}
+
+.navbar button {
+  width: 90px;
+  height: 25px;
+  margin-left: 2px;
+  border-radius: 7px;
+  border: none;
+  background-color: blue;
+}
+
+.query-text {
+  color: coral;
+}
+
+.title {
+  text-align: center;
+  padding: 7px;
+}
+
+.container-movie {
+  background-color: blue;
+}
+
+.movies-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.movies-cards div {
+  padding: 7px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+.movies-cards img {
+  margin-top: 12px;
+  height: 670px;
+  box-sizing: border-box;
+  max-width: 100%;
+  border-radius: 8px;
+}
+
+.card-link p {
+  padding: 4px;
+}
+
+.link {
+  margin-left: 7px;
+  text-decoration: none;
+  background-color: coral;
+  border-radius: 2px;
+  padding: 4px;
+}
+
+.link:hover {
+  background-color: black;
+}
+
+.card-link svg {
+  color: yellow;
+  margin-left: 7px;
+}
+
+.card-link h2 {
+  margin-left: 7px;
+}
+
+.container-searched {
+  background-color: blue;
+}
+
+.container-searched div {
+  padding: 7px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+.searched-movies {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.container-searched img {
+  box-sizing: border-box;
+  max-width: 100%;
+  border-radius: 8px;
+}
+
+.results-text {
+  text-align: center;
+}
+
+.movie-details {
+  background-color: black;
+  text-align: center;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+.movie-details img {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+.player {
+  display: flex;
+  justify-content: center;
+  margin: 20px 20px;
+}
