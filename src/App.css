@@ -1,10 +1,10 @@
 body {
-  background-color: black;
+  background-color: #000000;
   margin: 0;
 }
 
 .navbar {
-  background-color: black;
+  background-color: #000000;
   padding: 0.4rem;
 }
 
@@ -26,21 +26,23 @@ body {
   margin-left: 2px;
   border-radius: 7px;
   border: none;
-  background-color: blue;
-  color: white;
+  background-color: #0000ff;
+  color: #ffffff;
 }
 
 .query-text {
-  color: coral;
-}
-
-.title {
-  text-align: center;
-  color: white;
+  color: #ff7f50;
 }
 
 .container-movie {
-  background-color: blue;
+  background-color: #0000ff;
+}
+
+.container-movie h2 {
+  color: #ffffff;
+  padding-top: 5px;
+  text-align: center;
+  margin: 0;
 }
 
 .movies-cards {
@@ -61,7 +63,7 @@ body {
   border-radius: 8px;
   width: 458px;
   height: 410px;
-  margin-top: 10px;
+  margin-top: 4px;
 }
 
 .card-link p {
@@ -71,28 +73,28 @@ body {
 .link {
   margin-left: 7px;
   text-decoration: none;
-  background-color: coral;
+  background-color: #ff7f50;
   border-radius: 2px;
   padding: 4px;
-  color: white;
+  color: #ffffff;
 }
 
 .link:hover {
-  background-color: black;
+  background-color: #000000;
 }
 
 .card-link svg {
-  color: yellow;
+  color: #ffff00;
   margin-left: 7px;
 }
 
 .card-link h2 {
   margin-left: 7px;
-  color: white;
+  color: #ffffff;
 }
 
 .container-searched {
-  background-color: blue;
+  background-color: #0000ff;
 }
 
 .container-searched div {
@@ -120,8 +122,8 @@ body {
 }
 
 .movie-details {
-  background-color: black;
-  color: white;
+  background-color: #000000;
+  color: #ffffff;
   text-align: center;
   box-sizing: border-box;
   max-width: 100%;
@@ -144,4 +146,12 @@ body {
   display: flex;
   justify-content: center;
   margin: 20px 20px;
+}
+
+.player h2 {
+  color: #ffffff;
+}
+
+.player svg {
+  color: #0000ff;
 }

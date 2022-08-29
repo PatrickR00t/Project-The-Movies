@@ -22,9 +22,10 @@ const Movie = () => {
       <div
         style={{
           textAlign: 'center',
-          backgroundImage: `url('https://wallpapercave.com/wp/wp4016078.jpg')`,
+          backgroundImage: `url('https://wallpaper.dog/large/5486331.jpg')`,
           backgroundRepeat: 'no-repeat',
           backgroundSize: 'cover',
+          color: '#ffffff',
         }}
       >
       {movie && (
