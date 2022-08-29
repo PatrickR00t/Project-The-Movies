@@ -10,6 +10,7 @@ body {
 
 .navbar a {
   text-decoration: none;
+  color: rgb(61, 5, 114);
 }
 
 .navbar input {
@@ -147,6 +148,7 @@ body {
 }
 
 .player {
+  padding-top: 22px;
   display: flex;
   justify-content: center;
   margin: 20px 20px;
