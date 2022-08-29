@@ -1,6 +1,6 @@
 # Boas vindas ao repositório do projeto de De-Filmes!
 
-# Instruções para rodar o projeto
+## Instruções para rodar o projeto
 1. Clone o repositório
   * `git clone https://github.com/PatrickR00t/Project-The-Movies.git`
   * Entre na pasta do repositório que você acabou de clonar:
