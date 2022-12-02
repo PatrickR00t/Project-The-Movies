@@ -12,4 +12,4 @@
   * Inicialize o projeto:
     * `npm start` (uma nova página deve abrir no seu navegador).
 
-- [Link](https://patrickr00t-the-movies.herokuapp.com/)
+- [Link](https://patrickr00t-the-movies.netlify.app)
